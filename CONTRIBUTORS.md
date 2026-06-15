@@ -41,3 +41,4 @@ Student contributor names can be added below as the projects are completed.
 | Venkata Vivek | G40 AI/ML Batch | Global Earthquake Analytics Platform |
 | Manoj Kumar | G40 AI/ML Batch | Earthquake Trend Analytics |
 | Satish Hanji     | G40 AI/ML Batch  |Species Distribution  Analytics      | 
+| Surendra Reddy   | G40 AI/ML Batch | Most Active Repository Intelligence Engine |
