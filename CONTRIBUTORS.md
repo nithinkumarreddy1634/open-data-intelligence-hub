@@ -53,3 +53,4 @@ Student contributor names can be added below as the projects are completed.
 | Kavita Kanchan | G40 AL/ML Batch | Olympic Medal Intelligence Platform |
 | S.Gayathri | G40 AI/ML Batch | Quality of Life Intelligence Platform |
 | Sireesha | G40 AI/ML | Cliamte Anomaly Detection |
+
