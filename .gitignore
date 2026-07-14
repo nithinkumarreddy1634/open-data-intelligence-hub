@@ -3,3 +3,9 @@ venv/
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
+
+# Large trained model artifacts
+*.pkl
+
+# Or, if you only want to ignore Task 8 models:
+Mentee Contribution/Task 8 - Customer Segmentation with Actionable Business Insights/G Mehersai G40 AIML/E-Commerce Customer Behavior and Recommendation System/models/*.pkl
