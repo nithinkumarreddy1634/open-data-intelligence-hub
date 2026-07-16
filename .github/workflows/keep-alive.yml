@@ -6,24 +6,10 @@ on:
   workflow_dispatch:
 
 jobs:
-  wake-app:
+  ping:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20
-
-      - name: Install Playwright
-        run: |
-          npm init -y
-          npm install playwright
-          npx playwright install chromium
-
-      - name: Open Streamlit app in browser
-        env:
-          APP_URL: ${{ secrets.STREAMLIT_APP_URL }}
+      - name: Ping App
         run: |
           if [ -z "$APP_URL" ]; then
             echo "STREAMLIT_APP_URL secret is missing."
